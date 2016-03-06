@@ -1,0 +1,595 @@
+Product_issue_count,TRANS.STATE,TRANS.Product
+6852,CA,Bank account or service
+4841,FL,Bank account or service
+4821,NY,Bank account or service
+2952,TX,Bank account or service
+2657,NJ,Bank account or service
+2375,PA,Bank account or service
+2141,IL,Bank account or service
+2052,GA,Bank account or service
+1701,OH,Bank account or service
+1689,MD,Bank account or service
+1536,MA,Bank account or service
+1473,VA,Bank account or service
+1403,NC,Bank account or service
+1277,MI,Bank account or service
+1094,AZ,Bank account or service
+913,WA,Bank account or service
+789,CO,Bank account or service
+779,CT,Bank account or service
+743,TN,Bank account or service
+656,MN,Bank account or service
+629,OR,Bank account or service
+579,NV,Bank account or service
+558,IN,Bank account or service
+546,MO,Bank account or service
+503,SC,Bank account or service
+502,AL,Bank account or service
+490,WI,Bank account or service
+394,LA,Bank account or service
+392,DC,Bank account or service
+347,KY,Bank account or service
+341,DE,Bank account or service
+276,RI,Bank account or service
+247,NH,Bank account or service
+232,OK,Bank account or service
+227,NM,Bank account or service
+222,MS,Bank account or service
+214,AR,Bank account or service
+210,KS,Bank account or service
+181,ME,Bank account or service
+179,IA,Bank account or service
+178,UT,Bank account or service
+174,NE,Bank account or service
+130,ID,Bank account or service
+118,HI,Bank account or service
+117,WV,Bank account or service
+111,VT,Bank account or service
+63,SD,Bank account or service
+60,AK,Bank account or service
+50,MT,Bank account or service
+32,ND,Bank account or service
+24,WY,Bank account or service
+7,VI,Bank account or service
+2,MP,Bank account or service
+2,PR,Bank account or service
+1,AS,Bank account or service
+1,MH,Bank account or service
+1707,CA,Consumer Loan
+1236,TX,Consumer Loan
+1221,FL,Consumer Loan
+891,NY,Consumer Loan
+743,GA,Consumer Loan
+692,OH,Consumer Loan
+663,NJ,Consumer Loan
+617,PA,Consumer Loan
+551,VA,Consumer Loan
+536,MD,Consumer Loan
+521,NC,Consumer Loan
+500,IL,Consumer Loan
+422,MI,Consumer Loan
+361,AZ,Consumer Loan
+319,TN,Consumer Loan
+284,SC,Consumer Loan
+253,AL,Consumer Loan
+246,MO,Consumer Loan
+242,CO,Consumer Loan
+227,MA,Consumer Loan
+206,WA,Consumer Loan
+203,WI,Consumer Loan
+191,CT,Consumer Loan
+186,LA,Consumer Loan
+177,IN,Consumer Loan
+162,NV,Consumer Loan
+147,OR,Consumer Loan
+145,MS,Consumer Loan
+142,MN,Consumer Loan
+141,KY,Consumer Loan
+136,DE,Consumer Loan
+135,OK,Consumer Loan
+91,AR,Consumer Loan
+89,DC,Consumer Loan
+88,KS,Consumer Loan
+80,NM,Consumer Loan
+66,RI,Consumer Loan
+59,IA,Consumer Loan
+59,NH,Consumer Loan
+58,ME,Consumer Loan
+56,UT,Consumer Loan
+53,NE,Consumer Loan
+53,WV,Consumer Loan
+49,HI,Consumer Loan
+49,ID,Consumer Loan
+37,VT,Consumer Loan
+31,SD,Consumer Loan
+19,ND,Consumer Loan
+18,MT,Consumer Loan
+12,AK,Consumer Loan
+12,WY,Consumer Loan
+1,PW,Consumer Loan
+1,VI,Consumer Loan
+7082,CA,Credit card
+5221,NY,Credit card
+4547,FL,Credit card
+3309,TX,Credit card
+2425,NJ,Credit card
+2099,PA,Credit card
+1991,IL,Credit card
+1969,OH,Credit card
+1860,VA,Credit card
+1702,GA,Credit card
+1657,MD,Credit card
+1453,NC,Credit card
+1440,MA,Credit card
+1192,MI,Credit card
+1167,AZ,Credit card
+1051,WA,Credit card
+1039,CO,Credit card
+838,CT,Credit card
+830,WI,Credit card
+781,TN,Credit card
+747,MN,Credit card
+658,MO,Credit card
+634,OR,Credit card
+595,IN,Credit card
+585,NV,Credit card
+536,SC,Credit card
+447,AL,Credit card
+382,LA,Credit card
+378,DE,Credit card
+348,KS,Credit card
+343,KY,Credit card
+342,DC,Credit card
+334,OK,Credit card
+306,IA,Credit card
+271,ME,Credit card
+270,NH,Credit card
+266,UT,Credit card
+242,NM,Credit card
+231,AR,Credit card
+217,MS,Credit card
+217,NE,Credit card
+215,RI,Credit card
+199,ID,Credit card
+198,HI,Credit card
+155,WV,Credit card
+126,VT,Credit card
+123,SD,Credit card
+98,MT,Credit card
+74,AK,Credit card
+44,WY,Credit card
+43,ND,Credit card
+4,FM,Credit card
+3,VI,Credit card
+2,PR,Credit card
+1,AP,Credit card
+1,GU,Credit card
+1,MH,Credit card
+1,PW,Credit card
+8932,TX,Credit reporting
+8757,CA,Credit reporting
+6348,FL,Credit reporting
+4789,NY,Credit reporting
+2977,GA,Credit reporting
+2762,VA,Credit reporting
+2594,IL,Credit reporting
+2409,PA,Credit reporting
+2101,NJ,Credit reporting
+1938,NC,Credit reporting
+1859,MD,Credit reporting
+1821,OH,Credit reporting
+1507,MI,Credit reporting
+1327,WA,Credit reporting
+1290,AZ,Credit reporting
+1137,CO,Credit reporting
+1039,MA,Credit reporting
+1029,SC,Credit reporting
+983,TN,Credit reporting
+878,NV,Credit reporting
+819,IN,Credit reporting
+788,AL,Credit reporting
+781,MO,Credit reporting
+715,OR,Credit reporting
+681,LA,Credit reporting
+659,CT,Credit reporting
+633,WI,Credit reporting
+560,MN,Credit reporting
+518,KY,Credit reporting
+488,OK,Credit reporting
+406,NM,Credit reporting
+367,DC,Credit reporting
+355,MS,Credit reporting
+347,KS,Credit reporting
+342,UT,Credit reporting
+307,IA,Credit reporting
+296,DE,Credit reporting
+282,AR,Credit reporting
+249,NH,Credit reporting
+235,ID,Credit reporting
+224,WV,Credit reporting
+210,RI,Credit reporting
+209,HI,Credit reporting
+171,ME,Credit reporting
+156,NE,Credit reporting
+125,MT,Credit reporting
+105,WY,Credit reporting
+96,ND,Credit reporting
+95,VT,Credit reporting
+91,AK,Credit reporting
+75,SD,Credit reporting
+5,FM,Credit reporting
+4,MH,Credit reporting
+4,PR,Credit reporting
+2,AP,Credit reporting
+2,PW,Credit reporting
+1,MP,Credit reporting
+1,VI,Credit reporting
+9838,CA,Debt collection
+7293,TX,Debt collection
+6846,FL,Debt collection
+4623,NY,Debt collection
+3150,GA,Debt collection
+2673,PA,Debt collection
+2598,OH,Debt collection
+2588,NJ,Debt collection
+2578,IL,Debt collection
+2348,VA,Debt collection
+1931,MD,Debt collection
+1835,MI,Debt collection
+1703,AZ,Debt collection
+1692,NC,Debt collection
+1676,WA,Debt collection
+1423,TN,Debt collection
+1318,CO,Debt collection
+1239,MO,Debt collection
+1203,SC,Debt collection
+1075,MA,Debt collection
+1029,IN,Debt collection
+1013,OR,Debt collection
+980,AL,Debt collection
+975,NV,Debt collection
+952,LA,Debt collection
+918,WI,Debt collection
+798,MN,Debt collection
+732,OK,Debt collection
+699,KY,Debt collection
+695,CT,Debt collection
+501,KS,Debt collection
+491,UT,Debt collection
+446,NM,Debt collection
+425,MS,Debt collection
+421,IA,Debt collection
+415,DE,Debt collection
+373,DC,Debt collection
+361,AR,Debt collection
+317,ID,Debt collection
+307,NE,Debt collection
+267,HI,Debt collection
+251,ME,Debt collection
+245,RI,Debt collection
+243,NH,Debt collection
+217,WV,Debt collection
+167,MT,Debt collection
+151,SD,Debt collection
+104,AK,Debt collection
+101,VT,Debt collection
+97,WY,Debt collection
+92,ND,Debt collection
+6,MH,Debt collection
+5,GU,Debt collection
+4,FM,Debt collection
+3,VI,Debt collection
+2,AP,Debt collection
+2,AS,Debt collection
+2,PR,Debt collection
+381,CA,Money transfers
+229,NY,Money transfers
+223,FL,Money transfers
+221,TX,Money transfers
+113,GA,Money transfers
+105,NJ,Money transfers
+102,PA,Money transfers
+100,VA,Money transfers
+99,IL,Money transfers
+88,MA,Money transfers
+88,MD,Money transfers
+87,OH,Money transfers
+72,NC,Money transfers
+64,MI,Money transfers
+62,WA,Money transfers
+55,AZ,Money transfers
+45,MN,Money transfers
+39,WI,Money transfers
+37,MO,Money transfers
+34,IN,Money transfers
+32,SC,Money transfers
+31,TN,Money transfers
+30,CO,Money transfers
+29,NV,Money transfers
+28,LA,Money transfers
+23,CT,Money transfers
+23,OK,Money transfers
+22,AL,Money transfers
+22,OR,Money transfers
+20,DC,Money transfers
+20,NM,Money transfers
+15,AR,Money transfers
+14,MS,Money transfers
+13,ID,Money transfers
+13,KY,Money transfers
+12,KS,Money transfers
+11,NE,Money transfers
+10,DE,Money transfers
+10,WV,Money transfers
+9,RI,Money transfers
+8,IA,Money transfers
+7,NH,Money transfers
+7,UT,Money transfers
+6,HI,Money transfers
+6,VT,Money transfers
+5,AK,Money transfers
+4,MT,Money transfers
+3,ME,Money transfers
+3,SD,Money transfers
+2,ND,Money transfers
+1,AS,Money transfers
+1,VI,Money transfers
+1,WY,Money transfers
+28096,CA,Mortgage
+17744,FL,Mortgage
+10066,NY,Mortgage
+8157,GA,Mortgage
+7401,NJ,Mortgage
+7368,TX,Mortgage
+6193,MD,Mortgage
+5319,IL,Mortgage
+5196,MI,Mortgage
+5189,PA,Mortgage
+4912,VA,Mortgage
+4650,NC,Mortgage
+4578,OH,Mortgage
+3676,AZ,Mortgage
+3595,WA,Mortgage
+3192,MA,Mortgage
+2769,CO,Mortgage
+2048,MO,Mortgage
+2043,MN,Mortgage
+1961,CT,Mortgage
+1951,OR,Mortgage
+1936,TN,Mortgage
+1746,NV,Mortgage
+1704,WI,Mortgage
+1661,SC,Mortgage
+1439,IN,Mortgage
+1203,LA,Mortgage
+1184,NH,Mortgage
+1160,AL,Mortgage
+891,KY,Mortgage
+844,UT,Mortgage
+777,DE,Mortgage
+748,DC,Mortgage
+741,OK,Mortgage
+620,HI,Mortgage
+585,NM,Mortgage
+576,KS,Mortgage
+541,MS,Mortgage
+531,ME,Mortgage
+526,AR,Mortgage
+488,RI,Mortgage
+472,ID,Mortgage
+446,IA,Mortgage
+405,NE,Mortgage
+298,WV,Mortgage
+268,VT,Mortgage
+196,MT,Mortgage
+141,SD,Mortgage
+124,WY,Mortgage
+120,AK,Mortgage
+77,ND,Mortgage
+11,VI,Mortgage
+10,FM,Mortgage
+9,MH,Mortgage
+8,PR,Mortgage
+5,GU,Mortgage
+3,PW,Mortgage
+2,AS,Mortgage
+2,MP,Mortgage
+1,AA,Mortgage
+1,AP,Mortgage
+46,CA,Other financial service
+27,FL,Other financial service
+27,NY,Other financial service
+26,TX,Other financial service
+17,IL,Other financial service
+16,NJ,Other financial service
+15,NC,Other financial service
+14,VA,Other financial service
+13,OH,Other financial service
+12,MA,Other financial service
+10,GA,Other financial service
+10,PA,Other financial service
+9,TN,Other financial service
+8,WA,Other financial service
+7,OR,Other financial service
+7,WI,Other financial service
+6,MI,Other financial service
+6,MO,Other financial service
+5,AL,Other financial service
+5,DC,Other financial service
+5,MN,Other financial service
+5,SC,Other financial service
+4,AZ,Other financial service
+4,CO,Other financial service
+4,CT,Other financial service
+4,IN,Other financial service
+4,WV,Other financial service
+3,KS,Other financial service
+3,MD,Other financial service
+2,KY,Other financial service
+2,ME,Other financial service
+2,MS,Other financial service
+2,NH,Other financial service
+2,OK,Other financial service
+1,AR,Other financial service
+1,DE,Other financial service
+1,FM,Other financial service
+1,IA,Other financial service
+1,LA,Other financial service
+1,NM,Other financial service
+1,NV,Other financial service
+1,RI,Other financial service
+1,UT,Other financial service
+1,WY,Other financial service
+342,CA,Payday loan
+335,TX,Payday loan
+147,OH,Payday loan
+144,FL,Payday loan
+109,NJ,Payday loan
+107,PA,Payday loan
+104,VA,Payday loan
+87,IL,Payday loan
+83,GA,Payday loan
+79,TN,Payday loan
+77,MI,Payday loan
+72,LA,Payday loan
+67,NC,Payday loan
+65,MD,Payday loan
+65,MO,Payday loan
+63,AL,Payday loan
+58,WI,Payday loan
+57,NY,Payday loan
+53,NV,Payday loan
+50,CO,Payday loan
+50,IN,Payday loan
+50,OK,Payday loan
+48,AZ,Payday loan
+44,SC,Payday loan
+36,MA,Payday loan
+36,RI,Payday loan
+32,MN,Payday loan
+32,WA,Payday loan
+27,DC,Payday loan
+27,OR,Payday loan
+26,MS,Payday loan
+24,KS,Payday loan
+23,IA,Payday loan
+23,KY,Payday loan
+23,NM,Payday loan
+18,AR,Payday loan
+16,DE,Payday loan
+16,NH,Payday loan
+15,ID,Payday loan
+14,UT,Payday loan
+13,NE,Payday loan
+11,CT,Payday loan
+9,ME,Payday loan
+6,WY,Payday loan
+4,HI,Payday loan
+4,MT,Payday loan
+4,SD,Payday loan
+3,AK,Payday loan
+1,VT,Payday loan
+198,CA,Prepaid card
+101,NY,Prepaid card
+90,TX,Prepaid card
+82,FL,Prepaid card
+70,GA,Prepaid card
+62,NJ,Prepaid card
+59,IL,Prepaid card
+50,OH,Prepaid card
+44,MI,Prepaid card
+43,PA,Prepaid card
+39,MA,Prepaid card
+38,VA,Prepaid card
+34,MD,Prepaid card
+34,NC,Prepaid card
+33,WA,Prepaid card
+29,TN,Prepaid card
+26,AZ,Prepaid card
+25,WI,Prepaid card
+22,MO,Prepaid card
+21,OR,Prepaid card
+20,CO,Prepaid card
+20,NV,Prepaid card
+19,CT,Prepaid card
+18,MN,Prepaid card
+17,LA,Prepaid card
+16,AL,Prepaid card
+15,SC,Prepaid card
+11,DC,Prepaid card
+11,IN,Prepaid card
+9,IA,Prepaid card
+8,KS,Prepaid card
+8,KY,Prepaid card
+7,NM,Prepaid card
+7,OK,Prepaid card
+6,AR,Prepaid card
+6,DE,Prepaid card
+6,NE,Prepaid card
+5,ME,Prepaid card
+5,MS,Prepaid card
+4,NH,Prepaid card
+4,UT,Prepaid card
+4,VT,Prepaid card
+3,HI,Prepaid card
+2,AK,Prepaid card
+2,ID,Prepaid card
+2,MT,Prepaid card
+2,RI,Prepaid card
+2,WV,Prepaid card
+1,ND,Prepaid card
+1,SD,Prepaid card
+1294,CA,Student loan
+1132,NY,Student loan
+815,PA,Student loan
+767,FL,Student loan
+616,TX,Student loan
+600,OH,Student loan
+569,IL,Student loan
+537,NJ,Student loan
+441,MA,Student loan
+440,MI,Student loan
+436,GA,Student loan
+403,MD,Student loan
+402,VA,Student loan
+278,NC,Student loan
+257,IN,Student loan
+254,WA,Student loan
+229,MO,Student loan
+216,AZ,Student loan
+213,CO,Student loan
+210,MN,Student loan
+194,CT,Student loan
+190,TN,Student loan
+177,WI,Student loan
+161,OR,Student loan
+145,SC,Student loan
+136,DC,Student loan
+125,AL,Student loan
+117,LA,Student loan
+111,KY,Student loan
+102,NH,Student loan
+100,NV,Student loan
+90,IA,Student loan
+83,OK,Student loan
+72,WV,Student loan
+71,ME,Student loan
+66,AR,Student loan
+64,KS,Student loan
+63,NE,Student loan
+54,MS,Student loan
+53,UT,Student loan
+52,NM,Student loan
+51,DE,Student loan
+46,RI,Student loan
+43,VT,Student loan
+42,ID,Student loan
+35,MT,Student loan
+28,HI,Student loan
+24,SD,Student loan
+20,WY,Student loan
+13,AK,Student loan
+13,ND,Student loan
+1,AA,Student loan
+1,PR,Student loan
+1,VI,Student loan
